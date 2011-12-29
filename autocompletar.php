@@ -1,6 +1,3 @@
-<?php
-require_once('Conexiones/local.php'); // archivo donde se guardan los datos de la BD
-?>
 <html>
 	<head><title>Autocompletado</title>
 	<link rel="stylesheet" type="text/css" href="jquery/css/smoothness/jquery-ui-1.8.2.custom.css" />
